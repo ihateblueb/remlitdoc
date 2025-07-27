@@ -1,0 +1,6 @@
+ktor:
+  application:
+    modules:
+      - site.remlit.blueb.ApplicationKt.module
+  deployment:
+    port: 7162
